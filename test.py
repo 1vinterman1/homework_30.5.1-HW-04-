@@ -1,4 +1,4 @@
-"""проверка всех питомцев пользователя на наличие имени, вида и возраста"""
+"""Практическое Задание 30.5.1 (HW-04)"""
 import chromedriver_autoinstaller
 import pytest
 from selenium import webdriver
